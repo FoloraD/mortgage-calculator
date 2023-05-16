@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# React Mortgage Calculator 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Mortgage Calulator built with 
+
+- [React Js](https://github.com/facebook/create-react-app)
+- [Material ui](https://mui.com)
+- [Chart.js] (https://www.chartjs.org)
+
+![AppImage](public/Bank_of_react_image.png)
 
 ## Available Scripts
 
