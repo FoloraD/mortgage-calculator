@@ -4,7 +4,7 @@ Mortgage Calulator built with
 
 - [React Js](https://github.com/facebook/create-react-app)
 - [Material ui](https://mui.com)
-- [Chart.js] (https://www.chartjs.org)
+- [Chart.js](https://www.chartjs.org)
 
 ![AppImage](public/Bank_of_react_image.png)
 
