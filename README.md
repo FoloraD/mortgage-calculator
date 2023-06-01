@@ -1,6 +1,6 @@
 # React Mortgage Calculator 
 
-Mortgage Calulator built with 
+Mortgage Calculator built with 
 
 - [React Js](https://github.com/facebook/create-react-app)
 - [Material ui](https://mui.com)
